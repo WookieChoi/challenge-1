@@ -29,4 +29,4 @@ https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
 ## License
 
-Refer to the LICENSE in the repository. 
+N/A
