@@ -4,6 +4,10 @@
 
 This challenge fixes starter code to make a website more accessible to the user. We refactor the code to put in proper formatting and add comments which helps other developers collaborate. In the HTML file, we mainly change the div tags to more specific tags. In the CSS file, we mainly condense redundant code.
 
+## Screenshot
+
+![Screenshot of Deployed Website](./assets/images/webpage-screenshot.png)
+
 ## Installation
 
 Follow the URLs in the dropbox.
